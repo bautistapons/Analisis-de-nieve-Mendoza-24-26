@@ -1,0 +1,1 @@
+var json_Referencia_Valle_Lagrimas_3 = {"type":"FeatureCollection","name":"Referencia_Valle_Lagrimas_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Nombre":"Valle de las lágrimas"},"geometry":{"type":"Point","coordinates":[-70.285918697436429,-34.763487195184972]}}]}
