@@ -1,4 +1,4 @@
-### Contenido de la Actividad 2: Monitoreo y Comparativa de Cobertura Nival
+### Contenido de la Actividad : Monitoreo y Comparativa de Cobertura Nival con QGIS
 
 #### Descripción del Proyecto
 Evaluación espacio-temporal y cuantificación de la variación de superficie cubierta por nieve en el sector centro-sur de la cordillera de los Andes (con foco en el Valle de las Lágrimas), comparando el ciclo hidrológico de noviembre 2024 frente a noviembre 2026.
